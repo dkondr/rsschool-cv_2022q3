@@ -29,7 +29,7 @@ javascript
 ## **✨ Work experience:**
 Practical experience in web development and programming is small.
 
-![Codewarrior Profile Badges](https://www.codewars.com/users/dkondr/badges/small)
+🧘‍♂️ ![Codewarrior Profile Badges](https://www.codewars.com/users/dkondr/badges/small)
 
 ## **🌱 Education and courses:**
 * *Additional prof education:* LLC "Center of Educational Competencies of NTI" - " Tester is the easiest entrance to programming"
