@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dmitrii Kondratskii
+# 👋 Hi, I'm Dmitrii Kondratskii 🧑
 
 ## **📫 My contacts:** 
         **discord:**     dkondr#1800
